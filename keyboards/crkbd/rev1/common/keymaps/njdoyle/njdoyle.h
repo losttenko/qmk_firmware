@@ -36,8 +36,9 @@ enum njdoyle_keycodes {
 	D_DVRAK,              // Dvorak
 	D_COLEM,              // Colemak
 	D_C_DH ,              // Colemak Mod-DH
-	D_WISH,              // Colemak Mod-DHm
 	D_WORKM,              // Workman
+	D_WISH,              // Colemak Mod-DHm
+
 
 	// EMOTES
 	E_SMILE, // Smile
